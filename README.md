@@ -1,4 +1,4 @@
-# NYU_XR_Development_Projects
+# NYU XR & 3D Graphics Development Projects
  Projects completed as part of the NYU Tandon School of Engineering XR Development and 3D Graphics course.
 
 ## Week 5 - C# Scripting Basics
