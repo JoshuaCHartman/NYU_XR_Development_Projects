@@ -1,5 +1,9 @@
 # NYU XR & 3D Graphics Development Projects
  Projects completed as part of the NYU Tandon School of Engineering XR Development and 3D Graphics course.
+ 
+## Week 6 - Scripting for Interaction
+- First Person
+- Mouse & keyboard controls using Unity's new Input System, with mouse sensitivty adjustment
 
 ## Week 5 - C# Scripting 
 - 3D Platformer :
