@@ -4,6 +4,8 @@
 ## Week 6 - Scripting for Interaction
 - First Person
 - Mouse & keyboard controls using Unity's new Input System, with mouse sensitivty adjustment
+- Physics-based player movement
+- Scripted interaction with environment - opening doors, jump pads
 
 ## Week 5 - C# Scripting 
 - 3D Platformer :
