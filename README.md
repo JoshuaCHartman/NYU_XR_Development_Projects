@@ -3,7 +3,9 @@
  
 ## Week 6 - Scripting for Interaction
 - Roll-A-Ball:
-- -
+- - Physics-based control of player 
+- - Scripted interaction includes collectibles/pick-ups, application of physics forces, updating respawn checkpoints, moving obstacles, and simple particle effects
+- - Fixed offset camera with limited rotation
 
 - First Person
 - - Mouse & keyboard controls using Unity's new Input System, with mouse sensitivty adjustment
