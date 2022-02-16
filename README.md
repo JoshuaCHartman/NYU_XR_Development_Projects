@@ -6,10 +6,10 @@
 - -
 
 - First Person
--- Mouse & keyboard controls using Unity's new Input System, with mouse sensitivty adjustment
--- Physics-based player movement
--- Scripted interaction with environment - opening doors, jump pads
--- Scripted logic for gates to close after player exits trigger space, regardless of starting configuration (open/closed)
+- - Mouse & keyboard controls using Unity's new Input System, with mouse sensitivty adjustment
+- - Physics-based player movement
+- - Scripted interaction with environment - opening doors, jump pads
+- - Scripted logic for gates to close after player exits trigger space, regardless of starting configuration (open/closed)
 
 ## Week 5 - C# Scripting 
 - 3D Platformer :
