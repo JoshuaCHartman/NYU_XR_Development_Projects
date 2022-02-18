@@ -2,6 +2,10 @@
  Projects completed as part of the NYU Tandon School of Engineering XR Development and 3D Graphics course.
  
  ## Week 7 - UI & Animation
+ - Isometric Adventure :
+ - - Chest animates open/close when player enters trigger zone 
+ 
+ 
 - UI / Game Menu :
 - - Start Menu (scene index 0) with buttons to launch 3 scenes each encompassing a different game.
 - - Each game contans a Pause menu, with options to return to the present game, or go back to the Main Menu.
