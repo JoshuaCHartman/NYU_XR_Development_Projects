@@ -3,7 +3,8 @@
  
  ## Week 7 - UI & Animation
  - Isometric Adventure :
- - - Chest animates open/close when player enters trigger zone 
+ - - Chest animates open/close when player enters trigger zone.
+ - - Animations are both premade and keyframe generated.
  
  
 - UI / Game Menu :
