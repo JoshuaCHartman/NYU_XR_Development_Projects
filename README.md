@@ -3,7 +3,8 @@
  
  ## Week 7 - UI & Animation
  - Isometric Adventure :
- - - Chest animates open/close when player enters trigger zone.
+ - - Four fireflies blink and move independently using keyframes.
+ - - Chest animates open/close when player enters trigger zone, and triggers event in log.
  - - Animations are both premade and keyframe generated.
  
  
