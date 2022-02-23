@@ -2,7 +2,8 @@
  Projects completed as part of the NYU Tandon School of Engineering XR Development and 3D Graphics course.
  
  ## Week 7 - UI & Animation
- - Interactive Environment :
+ - Interactive Environment : 
+ - - (to run, download Wk7_02, unzip, and double click .exe file)
  - - Switch between 1st and 3rd person view by pressing 1 on the keyboard. Movement w/ WASD & arrow keys and mouse.
  - - Interactions with multiple objects : NPCs turn towards player and change animation state and then returning to starting rotation and state when player leaves, chests that open and move, doors that open (or not, depending on circumstances), UI elements appear on scene in response to player location (instructions, warnings, info).
  - - Numerous particle effects.
@@ -14,7 +15,6 @@
  - - Four fireflies blink and move independently using keyframes.
  - - Chest animates open/close when player enters trigger zone, and triggers event in log.
  - - Animations are both premade and keyframe generated.
- 
  
 - UI / Game Menu :
 - - Start Menu (scene index 0) with buttons to launch 3 scenes each encompassing a different game.
