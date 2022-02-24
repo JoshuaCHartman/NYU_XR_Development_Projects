@@ -10,6 +10,7 @@
  - - Game lit with point and ambient light (night scene).
  - - Looping background sounds.
  - - Individual animation loops for NPCs.
+ - - Assets from KayKit / Kay Lousberg (@KayLousberg).
  
  - Isometric Adventure :
  - - Four fireflies blink and move independently using keyframes.
@@ -25,6 +26,7 @@
 - - Physics-based control of player. 
 - - Scripted interaction includes collectibles/pick-ups, application of physics forces, updating respawn checkpoints, moving obstacles, and simple particle effects.
 - - Camera rotates around ball with right mouse button, at fixed offset follow position. Camera follows at offset when not held down.
+- - Assets from KayKit / Kay Lousberg (@KayLousberg).
 
 - First Person Explorer :
 - - Mouse & keyboard controls using Unity's new Input System, with mouse sensitivty adjustmeny.
