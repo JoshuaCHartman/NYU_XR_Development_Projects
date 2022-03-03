@@ -1,11 +1,19 @@
 # NYU XR & 3D Graphics Development Projects
  Projects completed as part of the NYU Tandon School of Engineering XR Development and 3D Graphics course.
  
+ ## Week 8 - Raycasting & Quaternions
+ - Interactive Environment - extending the project from Week 7.
+ - - Implemented an object / NPC highlighting system using raycasting and layermasks. When filtered objects are struck by the ray, logic is implemented that activates an outline component in the contacted object. The outline is deactivated when the ray is no longer in contact with the object.
+ - - Outline colors vary by object type : green for keys, yellow for coins, and light blue for friendly NPCs.
+ - - Added a key system. Keys are collected, talled in a visible UI element, and removed when unlocking chests. 
+ - - Tally system for collected coins added. Coin and key systms use static instances to pass and retrieve information.
+ - - Quaternions were implemented in Week 7. See below.
+ 
  ## Week 7 - UI & Animation
  - Interactive Environment : 
  - - (to run, download Wk7_02, unzip, and double click .exe file)
  - - Switch between 1st and 3rd person view by pressing 1 on the keyboard. Movement w/ WASD & arrow keys and mouse.
- - - Interactions with multiple objects : NPCs turn towards player and change animation state and then returning to starting rotation and state when player leaves, chests that open and move, doors that open (or not, depending on circumstances), UI elements appear on scene in response to player location (instructions, warnings, info).
+ - - Interactions with multiple objects : NPCs turn towards player (using quaternions) and change animation state and then returning to starting rotation and state when player leaves, chests that open and move, doors that open (or not, depending on circumstances), UI elements appear on scene in response to player location (instructions, warnings, info).
  - - Numerous particle effects.
  - - Game lit with point and ambient light (night scene).
  - - Looping background sounds.
